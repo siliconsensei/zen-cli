@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": [],
+  "author": "siliconsensei",
+  "license": "AGPL-3.0-or-later",
   "type": "module",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "siliconsensei",
-  "license": "AGPL-3.0-or-later",
   "dependencies": {
     "chalk": "^4.1.2",
     "chalk-animation": "^1.6.0",
