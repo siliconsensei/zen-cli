@@ -1,5 +1,5 @@
 {
-  "name": "holistic-cli",
+  "name": "kaihatsu",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,16 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "siliconsensei",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  },
   "devDependencies": {
     "@types/node": "^18.15.5",
     "typescript": "^5.0.2"
